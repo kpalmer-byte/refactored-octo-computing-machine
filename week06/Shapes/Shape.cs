@@ -2,7 +2,7 @@ using System;
 
 public class Shape
 {
-    public string _color;
+    private string _color;
 
     public string GetColor()
     {
